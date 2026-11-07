@@ -1,0 +1,10 @@
+[package]
+name = "use-cases"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = [ "Measured Engineering" ]
+license = "MIT"
+description = "A suite of Typst components for rendering use cases"
+keywords = [ "use-case"]
+categories = [ "components" ]
+disciplines = [ ]
